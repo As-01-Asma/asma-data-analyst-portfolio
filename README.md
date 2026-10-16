@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D6C9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Asmatha+Shaik+%F0%9F%91%8B;Aspiring+Data+Analyst;Turning+Data+Into+Clear+Insights" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D6C9&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Asmatha+Shaik+%F0%9F%91%8B;Aspiring+Data+Analyst;Turning+Data+Into+Clear+Insights" alt="Typing introduction" />
+
+  <br>
 
   <p>
     <strong>SQL · Python · Power BI · Advanced Excel</strong>
@@ -11,19 +13,29 @@
     visualization, and business-focused projects.
   </p>
 
-  <p>
-    <img src="https://img.shields.io/badge/OPEN_TO-ENTRY--LEVEL_OPPORTUNITIES-00D6C9?style=for-the-badge&labelColor=101828" alt="Open to entry-level opportunities" />
-  </p>
+  <br>
 
-  <p>
-    <a href="https://radiant-starburst-59dbba.netlify.app">
-      <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-00D6C9?style=for-the-badge&logo=googlechrome&logoColor=101828" alt="Explore my portfolio" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/As-01-Asma">
-      <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-A78BFA?style=for-the-badge&logo=github&logoColor=101828" alt="Explore my GitHub" />
-    </a>
-  </p>
+  <!-- ENTRY-LEVEL OPPORTUNITIES BANNER -->
+
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=38&pause=100000&color=39FF14&center=true&vCenter=true&width=1000&height=100&lines=OPEN+TO+ENTRY-LEVEL+DATA+ANALYST+ROLES" alt="Open to Entry-Level Data Analyst Roles" />
+
+  <h2>🚀 READY TO LEARN · ANALYZE · CONTRIBUTE</h2>
+
+  <h3>Actively Seeking Entry-Level Opportunities</h3>
+
+  <br>
+
+  <!-- MAIN BUTTONS -->
+
+  <a href="https://radiant-starburst-59dbba.netlify.app">
+    <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-00D6C9?style=for-the-badge&logo=googlechrome&logoColor=101828&labelColor=00D6C9" alt="Explore my portfolio" />
+  </a>
+
+  &nbsp;
+
+  <a href="https://github.com/As-01-Asma">
+    <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-A78BFA?style=for-the-badge&logo=github&logoColor=101828&labelColor=A78BFA" alt="Explore my GitHub" />
+  </a>
 
 </div>
 
@@ -96,7 +108,9 @@ This project explores marketing data to understand engagement and conversion per
   <a href="https://github.com/As-01-Asma/Marketing_Analytics">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-00D6C9?style=for-the-badge&logo=github&logoColor=101828" alt="View Marketing Analytics project" />
   </a>
+
   &nbsp;
+
   <a href="https://radiant-starburst-59dbba.netlify.app">
     <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=101828" alt="View portfolio" />
   </a>
@@ -116,7 +130,9 @@ This project focuses on examining customer-related data, identifying meaningful 
   <a href="https://github.com/As-01-Asma/customer_behavior_analysis">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-00D6C9?style=for-the-badge&logo=github&logoColor=101828" alt="View Customer Behavior Analysis project" />
   </a>
+
   &nbsp;
+
   <a href="https://radiant-starburst-59dbba.netlify.app">
     <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=101828" alt="View portfolio" />
   </a>
@@ -127,7 +143,7 @@ This project focuses on examining customer-related data, identifying meaningful 
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=00D6C9&center=true&vCenter=true&width=500&lines=My+Analytical+Approach" alt="My Analytical Approach" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=00D6C9&center=true&vCenter=true&width=600&lines=My+Analytical+Approach" alt="My Analytical Approach" />
 
 </div>
 
@@ -143,19 +159,23 @@ This project focuses on examining customer-related data, identifying meaningful 
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=A78BFA&center=true&vCenter=true&width=550&lines=Let's+Connect+%F0%9F%91%8B" alt="Let's Connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&lines=Let's+Connect+%F0%9F%91%8B" alt="Let's Connect" />
 
   <p>
     I'm looking forward to learning, building meaningful projects,
     and contributing to a data-driven team.
   </p>
 
+  <br>
+
   <a href="https://radiant-starburst-59dbba.netlify.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00D6C9?style=for-the-badge&logo=googlechrome&logoColor=101828" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-00D6C9?style=for-the-badge&logo=googlechrome&logoColor=101828" alt="Visit my portfolio" />
   </a>
+
   &nbsp;
+
   <a href="https://github.com/As-01-Asma">
-    <img src="https://img.shields.io/badge/GITHUB-A78BFA?style=for-the-badge&logo=github&logoColor=101828" alt="GitHub" />
+    <img src="https://img.shields.io/badge/CONNECT_ON_GITHUB-A78BFA?style=for-the-badge&logo=github&logoColor=101828" alt="Connect on GitHub" />
   </a>
 
   <br><br>
